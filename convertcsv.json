@@ -1,0 +1,4006 @@
+[
+ {
+   "Piece Price": 0,
+   "Min": 0.25
+ },
+ {
+   "Piece Price": 1,
+   "Min": 0.25
+ },
+ {
+   "Piece Price": 2,
+   "Min": 0.25
+ },
+ {
+   "Piece Price": 3,
+   "Min": 0.25
+ },
+ {
+   "Piece Price": 4,
+   "Min": 0.25
+ },
+ {
+   "Piece Price": 5,
+   "Min": 0.5
+ },
+ {
+   "Piece Price": 6,
+   "Min": 0.5
+ },
+ {
+   "Piece Price": 7,
+   "Min": 0.5
+ },
+ {
+   "Piece Price": 8,
+   "Min": 0.5
+ },
+ {
+   "Piece Price": 9,
+   "Min": 0.5
+ },
+ {
+   "Piece Price": 10,
+   "Min": 0.5
+ },
+ {
+   "Piece Price": 11,
+   "Min": 0.5
+ },
+ {
+   "Piece Price": 12,
+   "Min": 0.5
+ },
+ {
+   "Piece Price": 13,
+   "Min": 0.5
+ },
+ {
+   "Piece Price": 14,
+   "Min": 0.5
+ },
+ {
+   "Piece Price": 15,
+   "Min": 0.5
+ },
+ {
+   "Piece Price": 16,
+   "Min": 0.5
+ },
+ {
+   "Piece Price": 17,
+   "Min": 0.5
+ },
+ {
+   "Piece Price": 18,
+   "Min": 0.5
+ },
+ {
+   "Piece Price": 19,
+   "Min": 0.5
+ },
+ {
+   "Piece Price": 20,
+   "Min": 2
+ },
+ {
+   "Piece Price": 21,
+   "Min": 2
+ },
+ {
+   "Piece Price": 22,
+   "Min": 2
+ },
+ {
+   "Piece Price": 23,
+   "Min": 2
+ },
+ {
+   "Piece Price": 24,
+   "Min": 2
+ },
+ {
+   "Piece Price": 25,
+   "Min": 2
+ },
+ {
+   "Piece Price": 26,
+   "Min": 2
+ },
+ {
+   "Piece Price": 27,
+   "Min": 2
+ },
+ {
+   "Piece Price": 28,
+   "Min": 2
+ },
+ {
+   "Piece Price": 29,
+   "Min": 2
+ },
+ {
+   "Piece Price": 30,
+   "Min": 2
+ },
+ {
+   "Piece Price": 31,
+   "Min": 2
+ },
+ {
+   "Piece Price": 32,
+   "Min": 2
+ },
+ {
+   "Piece Price": 33,
+   "Min": 2
+ },
+ {
+   "Piece Price": 34,
+   "Min": 2
+ },
+ {
+   "Piece Price": 35,
+   "Min": 2
+ },
+ {
+   "Piece Price": 36,
+   "Min": 2
+ },
+ {
+   "Piece Price": 37,
+   "Min": 2
+ },
+ {
+   "Piece Price": 38,
+   "Min": 2
+ },
+ {
+   "Piece Price": 39,
+   "Min": 2
+ },
+ {
+   "Piece Price": 40,
+   "Min": 2
+ },
+ {
+   "Piece Price": 41,
+   "Min": 2
+ },
+ {
+   "Piece Price": 42,
+   "Min": 2
+ },
+ {
+   "Piece Price": 43,
+   "Min": 2
+ },
+ {
+   "Piece Price": 44,
+   "Min": 2
+ },
+ {
+   "Piece Price": 45,
+   "Min": 2
+ },
+ {
+   "Piece Price": 46,
+   "Min": 2
+ },
+ {
+   "Piece Price": 47,
+   "Min": 2
+ },
+ {
+   "Piece Price": 48,
+   "Min": 2
+ },
+ {
+   "Piece Price": 49,
+   "Min": 2
+ },
+ {
+   "Piece Price": 50,
+   "Min": 6
+ },
+ {
+   "Piece Price": 51,
+   "Min": 6
+ },
+ {
+   "Piece Price": 52,
+   "Min": 6
+ },
+ {
+   "Piece Price": 53,
+   "Min": 6
+ },
+ {
+   "Piece Price": 54,
+   "Min": 6
+ },
+ {
+   "Piece Price": 55,
+   "Min": 6
+ },
+ {
+   "Piece Price": 56,
+   "Min": 6
+ },
+ {
+   "Piece Price": 57,
+   "Min": 6
+ },
+ {
+   "Piece Price": 58,
+   "Min": 6
+ },
+ {
+   "Piece Price": 59,
+   "Min": 6
+ },
+ {
+   "Piece Price": 60,
+   "Min": 6
+ },
+ {
+   "Piece Price": 61,
+   "Min": 6
+ },
+ {
+   "Piece Price": 62,
+   "Min": 6
+ },
+ {
+   "Piece Price": 63,
+   "Min": 6
+ },
+ {
+   "Piece Price": 64,
+   "Min": 6
+ },
+ {
+   "Piece Price": 65,
+   "Min": 6
+ },
+ {
+   "Piece Price": 66,
+   "Min": 6
+ },
+ {
+   "Piece Price": 67,
+   "Min": 6
+ },
+ {
+   "Piece Price": 68,
+   "Min": 6
+ },
+ {
+   "Piece Price": 69,
+   "Min": 6
+ },
+ {
+   "Piece Price": 70,
+   "Min": 6
+ },
+ {
+   "Piece Price": 71,
+   "Min": 6
+ },
+ {
+   "Piece Price": 72,
+   "Min": 6
+ },
+ {
+   "Piece Price": 73,
+   "Min": 6
+ },
+ {
+   "Piece Price": 74,
+   "Min": 6
+ },
+ {
+   "Piece Price": 75,
+   "Min": 6
+ },
+ {
+   "Piece Price": 76,
+   "Min": 6
+ },
+ {
+   "Piece Price": 77,
+   "Min": 6
+ },
+ {
+   "Piece Price": 78,
+   "Min": 6
+ },
+ {
+   "Piece Price": 79,
+   "Min": 6
+ },
+ {
+   "Piece Price": 80,
+   "Min": 6
+ },
+ {
+   "Piece Price": 81,
+   "Min": 6
+ },
+ {
+   "Piece Price": 82,
+   "Min": 6
+ },
+ {
+   "Piece Price": 83,
+   "Min": 6
+ },
+ {
+   "Piece Price": 84,
+   "Min": 6
+ },
+ {
+   "Piece Price": 85,
+   "Min": 6
+ },
+ {
+   "Piece Price": 86,
+   "Min": 6
+ },
+ {
+   "Piece Price": 87,
+   "Min": 6
+ },
+ {
+   "Piece Price": 88,
+   "Min": 6
+ },
+ {
+   "Piece Price": 89,
+   "Min": 6
+ },
+ {
+   "Piece Price": 90,
+   "Min": 6
+ },
+ {
+   "Piece Price": 91,
+   "Min": 6
+ },
+ {
+   "Piece Price": 92,
+   "Min": 6
+ },
+ {
+   "Piece Price": 93,
+   "Min": 6
+ },
+ {
+   "Piece Price": 94,
+   "Min": 6
+ },
+ {
+   "Piece Price": 95,
+   "Min": 6
+ },
+ {
+   "Piece Price": 96,
+   "Min": 6
+ },
+ {
+   "Piece Price": 97,
+   "Min": 6
+ },
+ {
+   "Piece Price": 98,
+   "Min": 6
+ },
+ {
+   "Piece Price": 99,
+   "Min": 6
+ },
+ {
+   "Piece Price": 100,
+   "Min": 9
+ },
+ {
+   "Piece Price": 101,
+   "Min": 9
+ },
+ {
+   "Piece Price": 102,
+   "Min": 9
+ },
+ {
+   "Piece Price": 103,
+   "Min": 9
+ },
+ {
+   "Piece Price": 104,
+   "Min": 9
+ },
+ {
+   "Piece Price": 105,
+   "Min": 9
+ },
+ {
+   "Piece Price": 106,
+   "Min": 9
+ },
+ {
+   "Piece Price": 107,
+   "Min": 9
+ },
+ {
+   "Piece Price": 108,
+   "Min": 9
+ },
+ {
+   "Piece Price": 109,
+   "Min": 9
+ },
+ {
+   "Piece Price": 110,
+   "Min": 9
+ },
+ {
+   "Piece Price": 111,
+   "Min": 9
+ },
+ {
+   "Piece Price": 112,
+   "Min": 9
+ },
+ {
+   "Piece Price": 113,
+   "Min": 9
+ },
+ {
+   "Piece Price": 114,
+   "Min": 9
+ },
+ {
+   "Piece Price": 115,
+   "Min": 9
+ },
+ {
+   "Piece Price": 116,
+   "Min": 9
+ },
+ {
+   "Piece Price": 117,
+   "Min": 9
+ },
+ {
+   "Piece Price": 118,
+   "Min": 9
+ },
+ {
+   "Piece Price": 119,
+   "Min": 9
+ },
+ {
+   "Piece Price": 120,
+   "Min": 9
+ },
+ {
+   "Piece Price": 121,
+   "Min": 9
+ },
+ {
+   "Piece Price": 122,
+   "Min": 9
+ },
+ {
+   "Piece Price": 123,
+   "Min": 9
+ },
+ {
+   "Piece Price": 124,
+   "Min": 9
+ },
+ {
+   "Piece Price": 125,
+   "Min": 9
+ },
+ {
+   "Piece Price": 126,
+   "Min": 9
+ },
+ {
+   "Piece Price": 127,
+   "Min": 9
+ },
+ {
+   "Piece Price": 128,
+   "Min": 9
+ },
+ {
+   "Piece Price": 129,
+   "Min": 9
+ },
+ {
+   "Piece Price": 130,
+   "Min": 9
+ },
+ {
+   "Piece Price": 131,
+   "Min": 9
+ },
+ {
+   "Piece Price": 132,
+   "Min": 9
+ },
+ {
+   "Piece Price": 133,
+   "Min": 9
+ },
+ {
+   "Piece Price": 134,
+   "Min": 9
+ },
+ {
+   "Piece Price": 135,
+   "Min": 9
+ },
+ {
+   "Piece Price": 136,
+   "Min": 9
+ },
+ {
+   "Piece Price": 137,
+   "Min": 9
+ },
+ {
+   "Piece Price": 138,
+   "Min": 9
+ },
+ {
+   "Piece Price": 139,
+   "Min": 9
+ },
+ {
+   "Piece Price": 140,
+   "Min": 9
+ },
+ {
+   "Piece Price": 141,
+   "Min": 9
+ },
+ {
+   "Piece Price": 142,
+   "Min": 9
+ },
+ {
+   "Piece Price": 143,
+   "Min": 9
+ },
+ {
+   "Piece Price": 144,
+   "Min": 9
+ },
+ {
+   "Piece Price": 145,
+   "Min": 9
+ },
+ {
+   "Piece Price": 146,
+   "Min": 9
+ },
+ {
+   "Piece Price": 147,
+   "Min": 9
+ },
+ {
+   "Piece Price": 148,
+   "Min": 9
+ },
+ {
+   "Piece Price": 149,
+   "Min": 9
+ },
+ {
+   "Piece Price": 150,
+   "Min": 12
+ },
+ {
+   "Piece Price": 151,
+   "Min": 12
+ },
+ {
+   "Piece Price": 152,
+   "Min": 12
+ },
+ {
+   "Piece Price": 153,
+   "Min": 12
+ },
+ {
+   "Piece Price": 154,
+   "Min": 12
+ },
+ {
+   "Piece Price": 155,
+   "Min": 12
+ },
+ {
+   "Piece Price": 156,
+   "Min": 12
+ },
+ {
+   "Piece Price": 157,
+   "Min": 12
+ },
+ {
+   "Piece Price": 158,
+   "Min": 12
+ },
+ {
+   "Piece Price": 159,
+   "Min": 12
+ },
+ {
+   "Piece Price": 160,
+   "Min": 12
+ },
+ {
+   "Piece Price": 161,
+   "Min": 12
+ },
+ {
+   "Piece Price": 162,
+   "Min": 12
+ },
+ {
+   "Piece Price": 163,
+   "Min": 12
+ },
+ {
+   "Piece Price": 164,
+   "Min": 12
+ },
+ {
+   "Piece Price": 165,
+   "Min": 12
+ },
+ {
+   "Piece Price": 166,
+   "Min": 12
+ },
+ {
+   "Piece Price": 167,
+   "Min": 12
+ },
+ {
+   "Piece Price": 168,
+   "Min": 12
+ },
+ {
+   "Piece Price": 169,
+   "Min": 12
+ },
+ {
+   "Piece Price": 170,
+   "Min": 12
+ },
+ {
+   "Piece Price": 171,
+   "Min": 12
+ },
+ {
+   "Piece Price": 172,
+   "Min": 12
+ },
+ {
+   "Piece Price": 173,
+   "Min": 12
+ },
+ {
+   "Piece Price": 174,
+   "Min": 12
+ },
+ {
+   "Piece Price": 175,
+   "Min": 12
+ },
+ {
+   "Piece Price": 176,
+   "Min": 12
+ },
+ {
+   "Piece Price": 177,
+   "Min": 12
+ },
+ {
+   "Piece Price": 178,
+   "Min": 12
+ },
+ {
+   "Piece Price": 179,
+   "Min": 12
+ },
+ {
+   "Piece Price": 180,
+   "Min": 12
+ },
+ {
+   "Piece Price": 181,
+   "Min": 12
+ },
+ {
+   "Piece Price": 182,
+   "Min": 12
+ },
+ {
+   "Piece Price": 183,
+   "Min": 12
+ },
+ {
+   "Piece Price": 184,
+   "Min": 12
+ },
+ {
+   "Piece Price": 185,
+   "Min": 12
+ },
+ {
+   "Piece Price": 186,
+   "Min": 12
+ },
+ {
+   "Piece Price": 187,
+   "Min": 12
+ },
+ {
+   "Piece Price": 188,
+   "Min": 12
+ },
+ {
+   "Piece Price": 189,
+   "Min": 12
+ },
+ {
+   "Piece Price": 190,
+   "Min": 12
+ },
+ {
+   "Piece Price": 191,
+   "Min": 12
+ },
+ {
+   "Piece Price": 192,
+   "Min": 12
+ },
+ {
+   "Piece Price": 193,
+   "Min": 12
+ },
+ {
+   "Piece Price": 194,
+   "Min": 12
+ },
+ {
+   "Piece Price": 195,
+   "Min": 12
+ },
+ {
+   "Piece Price": 196,
+   "Min": 12
+ },
+ {
+   "Piece Price": 197,
+   "Min": 12
+ },
+ {
+   "Piece Price": 198,
+   "Min": 12
+ },
+ {
+   "Piece Price": 199,
+   "Min": 12
+ },
+ {
+   "Piece Price": 200,
+   "Min": 15
+ },
+ {
+   "Piece Price": 201,
+   "Min": 15
+ },
+ {
+   "Piece Price": 202,
+   "Min": 15
+ },
+ {
+   "Piece Price": 203,
+   "Min": 15
+ },
+ {
+   "Piece Price": 204,
+   "Min": 15
+ },
+ {
+   "Piece Price": 205,
+   "Min": 15
+ },
+ {
+   "Piece Price": 206,
+   "Min": 15
+ },
+ {
+   "Piece Price": 207,
+   "Min": 15
+ },
+ {
+   "Piece Price": 208,
+   "Min": 15
+ },
+ {
+   "Piece Price": 209,
+   "Min": 15
+ },
+ {
+   "Piece Price": 210,
+   "Min": 15
+ },
+ {
+   "Piece Price": 211,
+   "Min": 15
+ },
+ {
+   "Piece Price": 212,
+   "Min": 15
+ },
+ {
+   "Piece Price": 213,
+   "Min": 15
+ },
+ {
+   "Piece Price": 214,
+   "Min": 15
+ },
+ {
+   "Piece Price": 215,
+   "Min": 15
+ },
+ {
+   "Piece Price": 216,
+   "Min": 15
+ },
+ {
+   "Piece Price": 217,
+   "Min": 15
+ },
+ {
+   "Piece Price": 218,
+   "Min": 15
+ },
+ {
+   "Piece Price": 219,
+   "Min": 15
+ },
+ {
+   "Piece Price": 220,
+   "Min": 15
+ },
+ {
+   "Piece Price": 221,
+   "Min": 15
+ },
+ {
+   "Piece Price": 222,
+   "Min": 15
+ },
+ {
+   "Piece Price": 223,
+   "Min": 15
+ },
+ {
+   "Piece Price": 224,
+   "Min": 15
+ },
+ {
+   "Piece Price": 225,
+   "Min": 15
+ },
+ {
+   "Piece Price": 226,
+   "Min": 15
+ },
+ {
+   "Piece Price": 227,
+   "Min": 15
+ },
+ {
+   "Piece Price": 228,
+   "Min": 15
+ },
+ {
+   "Piece Price": 229,
+   "Min": 15
+ },
+ {
+   "Piece Price": 230,
+   "Min": 15
+ },
+ {
+   "Piece Price": 231,
+   "Min": 15
+ },
+ {
+   "Piece Price": 232,
+   "Min": 15
+ },
+ {
+   "Piece Price": 233,
+   "Min": 15
+ },
+ {
+   "Piece Price": 234,
+   "Min": 15
+ },
+ {
+   "Piece Price": 235,
+   "Min": 15
+ },
+ {
+   "Piece Price": 236,
+   "Min": 15
+ },
+ {
+   "Piece Price": 237,
+   "Min": 15
+ },
+ {
+   "Piece Price": 238,
+   "Min": 15
+ },
+ {
+   "Piece Price": 239,
+   "Min": 15
+ },
+ {
+   "Piece Price": 240,
+   "Min": 15
+ },
+ {
+   "Piece Price": 241,
+   "Min": 15
+ },
+ {
+   "Piece Price": 242,
+   "Min": 15
+ },
+ {
+   "Piece Price": 243,
+   "Min": 15
+ },
+ {
+   "Piece Price": 244,
+   "Min": 15
+ },
+ {
+   "Piece Price": 245,
+   "Min": 15
+ },
+ {
+   "Piece Price": 246,
+   "Min": 15
+ },
+ {
+   "Piece Price": 247,
+   "Min": 15
+ },
+ {
+   "Piece Price": 248,
+   "Min": 15
+ },
+ {
+   "Piece Price": 249,
+   "Min": 15
+ },
+ {
+   "Piece Price": 250,
+   "Min": 15
+ },
+ {
+   "Piece Price": 251,
+   "Min": 15
+ },
+ {
+   "Piece Price": 252,
+   "Min": 15
+ },
+ {
+   "Piece Price": 253,
+   "Min": 15
+ },
+ {
+   "Piece Price": 254,
+   "Min": 15
+ },
+ {
+   "Piece Price": 255,
+   "Min": 15
+ },
+ {
+   "Piece Price": 256,
+   "Min": 15
+ },
+ {
+   "Piece Price": 257,
+   "Min": 15
+ },
+ {
+   "Piece Price": 258,
+   "Min": 15
+ },
+ {
+   "Piece Price": 259,
+   "Min": 15
+ },
+ {
+   "Piece Price": 260,
+   "Min": 15
+ },
+ {
+   "Piece Price": 261,
+   "Min": 15
+ },
+ {
+   "Piece Price": 262,
+   "Min": 15
+ },
+ {
+   "Piece Price": 263,
+   "Min": 15
+ },
+ {
+   "Piece Price": 264,
+   "Min": 15
+ },
+ {
+   "Piece Price": 265,
+   "Min": 15
+ },
+ {
+   "Piece Price": 266,
+   "Min": 15
+ },
+ {
+   "Piece Price": 267,
+   "Min": 15
+ },
+ {
+   "Piece Price": 268,
+   "Min": 15
+ },
+ {
+   "Piece Price": 269,
+   "Min": 15
+ },
+ {
+   "Piece Price": 270,
+   "Min": 15
+ },
+ {
+   "Piece Price": 271,
+   "Min": 15
+ },
+ {
+   "Piece Price": 272,
+   "Min": 15
+ },
+ {
+   "Piece Price": 273,
+   "Min": 15
+ },
+ {
+   "Piece Price": 274,
+   "Min": 15
+ },
+ {
+   "Piece Price": 275,
+   "Min": 15
+ },
+ {
+   "Piece Price": 276,
+   "Min": 15
+ },
+ {
+   "Piece Price": 277,
+   "Min": 15
+ },
+ {
+   "Piece Price": 278,
+   "Min": 15
+ },
+ {
+   "Piece Price": 279,
+   "Min": 15
+ },
+ {
+   "Piece Price": 280,
+   "Min": 15
+ },
+ {
+   "Piece Price": 281,
+   "Min": 15
+ },
+ {
+   "Piece Price": 282,
+   "Min": 15
+ },
+ {
+   "Piece Price": 283,
+   "Min": 15
+ },
+ {
+   "Piece Price": 284,
+   "Min": 15
+ },
+ {
+   "Piece Price": 285,
+   "Min": 15
+ },
+ {
+   "Piece Price": 286,
+   "Min": 15
+ },
+ {
+   "Piece Price": 287,
+   "Min": 15
+ },
+ {
+   "Piece Price": 288,
+   "Min": 15
+ },
+ {
+   "Piece Price": 289,
+   "Min": 15
+ },
+ {
+   "Piece Price": 290,
+   "Min": 15
+ },
+ {
+   "Piece Price": 291,
+   "Min": 15
+ },
+ {
+   "Piece Price": 292,
+   "Min": 15
+ },
+ {
+   "Piece Price": 293,
+   "Min": 15
+ },
+ {
+   "Piece Price": 294,
+   "Min": 15
+ },
+ {
+   "Piece Price": 295,
+   "Min": 15
+ },
+ {
+   "Piece Price": 296,
+   "Min": 15
+ },
+ {
+   "Piece Price": 297,
+   "Min": 15
+ },
+ {
+   "Piece Price": 298,
+   "Min": 15
+ },
+ {
+   "Piece Price": 299,
+   "Min": 15
+ },
+ {
+   "Piece Price": 300,
+   "Min": 15
+ },
+ {
+   "Piece Price": 301,
+   "Min": 15
+ },
+ {
+   "Piece Price": 302,
+   "Min": 15
+ },
+ {
+   "Piece Price": 303,
+   "Min": 15
+ },
+ {
+   "Piece Price": 304,
+   "Min": 15
+ },
+ {
+   "Piece Price": 305,
+   "Min": 15
+ },
+ {
+   "Piece Price": 306,
+   "Min": 15
+ },
+ {
+   "Piece Price": 307,
+   "Min": 15
+ },
+ {
+   "Piece Price": 308,
+   "Min": 15
+ },
+ {
+   "Piece Price": 309,
+   "Min": 15
+ },
+ {
+   "Piece Price": 310,
+   "Min": 15
+ },
+ {
+   "Piece Price": 311,
+   "Min": 15
+ },
+ {
+   "Piece Price": 312,
+   "Min": 15
+ },
+ {
+   "Piece Price": 313,
+   "Min": 15
+ },
+ {
+   "Piece Price": 314,
+   "Min": 15
+ },
+ {
+   "Piece Price": 315,
+   "Min": 15
+ },
+ {
+   "Piece Price": 316,
+   "Min": 15
+ },
+ {
+   "Piece Price": 317,
+   "Min": 15
+ },
+ {
+   "Piece Price": 318,
+   "Min": 15
+ },
+ {
+   "Piece Price": 319,
+   "Min": 15
+ },
+ {
+   "Piece Price": 320,
+   "Min": 15
+ },
+ {
+   "Piece Price": 321,
+   "Min": 15
+ },
+ {
+   "Piece Price": 322,
+   "Min": 15
+ },
+ {
+   "Piece Price": 323,
+   "Min": 15
+ },
+ {
+   "Piece Price": 324,
+   "Min": 15
+ },
+ {
+   "Piece Price": 325,
+   "Min": 15
+ },
+ {
+   "Piece Price": 326,
+   "Min": 15
+ },
+ {
+   "Piece Price": 327,
+   "Min": 15
+ },
+ {
+   "Piece Price": 328,
+   "Min": 15
+ },
+ {
+   "Piece Price": 329,
+   "Min": 15
+ },
+ {
+   "Piece Price": 330,
+   "Min": 15
+ },
+ {
+   "Piece Price": 331,
+   "Min": 15
+ },
+ {
+   "Piece Price": 332,
+   "Min": 15
+ },
+ {
+   "Piece Price": 333,
+   "Min": 15
+ },
+ {
+   "Piece Price": 334,
+   "Min": 15
+ },
+ {
+   "Piece Price": 335,
+   "Min": 15
+ },
+ {
+   "Piece Price": 336,
+   "Min": 15
+ },
+ {
+   "Piece Price": 337,
+   "Min": 15
+ },
+ {
+   "Piece Price": 338,
+   "Min": 15
+ },
+ {
+   "Piece Price": 339,
+   "Min": 15
+ },
+ {
+   "Piece Price": 340,
+   "Min": 15
+ },
+ {
+   "Piece Price": 341,
+   "Min": 15
+ },
+ {
+   "Piece Price": 342,
+   "Min": 15
+ },
+ {
+   "Piece Price": 343,
+   "Min": 15
+ },
+ {
+   "Piece Price": 344,
+   "Min": 15
+ },
+ {
+   "Piece Price": 345,
+   "Min": 15
+ },
+ {
+   "Piece Price": 346,
+   "Min": 15
+ },
+ {
+   "Piece Price": 347,
+   "Min": 15
+ },
+ {
+   "Piece Price": 348,
+   "Min": 15
+ },
+ {
+   "Piece Price": 349,
+   "Min": 15
+ },
+ {
+   "Piece Price": 350,
+   "Min": 15
+ },
+ {
+   "Piece Price": 351,
+   "Min": 15
+ },
+ {
+   "Piece Price": 352,
+   "Min": 15
+ },
+ {
+   "Piece Price": 353,
+   "Min": 15
+ },
+ {
+   "Piece Price": 354,
+   "Min": 15
+ },
+ {
+   "Piece Price": 355,
+   "Min": 15
+ },
+ {
+   "Piece Price": 356,
+   "Min": 15
+ },
+ {
+   "Piece Price": 357,
+   "Min": 15
+ },
+ {
+   "Piece Price": 358,
+   "Min": 15
+ },
+ {
+   "Piece Price": 359,
+   "Min": 15
+ },
+ {
+   "Piece Price": 360,
+   "Min": 15
+ },
+ {
+   "Piece Price": 361,
+   "Min": 15
+ },
+ {
+   "Piece Price": 362,
+   "Min": 15
+ },
+ {
+   "Piece Price": 363,
+   "Min": 15
+ },
+ {
+   "Piece Price": 364,
+   "Min": 15
+ },
+ {
+   "Piece Price": 365,
+   "Min": 15
+ },
+ {
+   "Piece Price": 366,
+   "Min": 15
+ },
+ {
+   "Piece Price": 367,
+   "Min": 15
+ },
+ {
+   "Piece Price": 368,
+   "Min": 15
+ },
+ {
+   "Piece Price": 369,
+   "Min": 15
+ },
+ {
+   "Piece Price": 370,
+   "Min": 15
+ },
+ {
+   "Piece Price": 371,
+   "Min": 15
+ },
+ {
+   "Piece Price": 372,
+   "Min": 15
+ },
+ {
+   "Piece Price": 373,
+   "Min": 15
+ },
+ {
+   "Piece Price": 374,
+   "Min": 15
+ },
+ {
+   "Piece Price": 375,
+   "Min": 15
+ },
+ {
+   "Piece Price": 376,
+   "Min": 15
+ },
+ {
+   "Piece Price": 377,
+   "Min": 15
+ },
+ {
+   "Piece Price": 378,
+   "Min": 15
+ },
+ {
+   "Piece Price": 379,
+   "Min": 15
+ },
+ {
+   "Piece Price": 380,
+   "Min": 15
+ },
+ {
+   "Piece Price": 381,
+   "Min": 15
+ },
+ {
+   "Piece Price": 382,
+   "Min": 15
+ },
+ {
+   "Piece Price": 383,
+   "Min": 15
+ },
+ {
+   "Piece Price": 384,
+   "Min": 15
+ },
+ {
+   "Piece Price": 385,
+   "Min": 15
+ },
+ {
+   "Piece Price": 386,
+   "Min": 15
+ },
+ {
+   "Piece Price": 387,
+   "Min": 15
+ },
+ {
+   "Piece Price": 388,
+   "Min": 15
+ },
+ {
+   "Piece Price": 389,
+   "Min": 15
+ },
+ {
+   "Piece Price": 390,
+   "Min": 15
+ },
+ {
+   "Piece Price": 391,
+   "Min": 15
+ },
+ {
+   "Piece Price": 392,
+   "Min": 15
+ },
+ {
+   "Piece Price": 393,
+   "Min": 15
+ },
+ {
+   "Piece Price": 394,
+   "Min": 15
+ },
+ {
+   "Piece Price": 395,
+   "Min": 15
+ },
+ {
+   "Piece Price": 396,
+   "Min": 15
+ },
+ {
+   "Piece Price": 397,
+   "Min": 15
+ },
+ {
+   "Piece Price": 398,
+   "Min": 15
+ },
+ {
+   "Piece Price": 399,
+   "Min": 15
+ },
+ {
+   "Piece Price": 400,
+   "Min": 15
+ },
+ {
+   "Piece Price": 401,
+   "Min": 15
+ },
+ {
+   "Piece Price": 402,
+   "Min": 15
+ },
+ {
+   "Piece Price": 403,
+   "Min": 15
+ },
+ {
+   "Piece Price": 404,
+   "Min": 15
+ },
+ {
+   "Piece Price": 405,
+   "Min": 15
+ },
+ {
+   "Piece Price": 406,
+   "Min": 15
+ },
+ {
+   "Piece Price": 407,
+   "Min": 15
+ },
+ {
+   "Piece Price": 408,
+   "Min": 15
+ },
+ {
+   "Piece Price": 409,
+   "Min": 15
+ },
+ {
+   "Piece Price": 410,
+   "Min": 15
+ },
+ {
+   "Piece Price": 411,
+   "Min": 15
+ },
+ {
+   "Piece Price": 412,
+   "Min": 15
+ },
+ {
+   "Piece Price": 413,
+   "Min": 15
+ },
+ {
+   "Piece Price": 414,
+   "Min": 15
+ },
+ {
+   "Piece Price": 415,
+   "Min": 15
+ },
+ {
+   "Piece Price": 416,
+   "Min": 15
+ },
+ {
+   "Piece Price": 417,
+   "Min": 15
+ },
+ {
+   "Piece Price": 418,
+   "Min": 15
+ },
+ {
+   "Piece Price": 419,
+   "Min": 15
+ },
+ {
+   "Piece Price": 420,
+   "Min": 15
+ },
+ {
+   "Piece Price": 421,
+   "Min": 15
+ },
+ {
+   "Piece Price": 422,
+   "Min": 15
+ },
+ {
+   "Piece Price": 423,
+   "Min": 15
+ },
+ {
+   "Piece Price": 424,
+   "Min": 15
+ },
+ {
+   "Piece Price": 425,
+   "Min": 15
+ },
+ {
+   "Piece Price": 426,
+   "Min": 15
+ },
+ {
+   "Piece Price": 427,
+   "Min": 15
+ },
+ {
+   "Piece Price": 428,
+   "Min": 15
+ },
+ {
+   "Piece Price": 429,
+   "Min": 15
+ },
+ {
+   "Piece Price": 430,
+   "Min": 15
+ },
+ {
+   "Piece Price": 431,
+   "Min": 15
+ },
+ {
+   "Piece Price": 432,
+   "Min": 15
+ },
+ {
+   "Piece Price": 433,
+   "Min": 15
+ },
+ {
+   "Piece Price": 434,
+   "Min": 15
+ },
+ {
+   "Piece Price": 435,
+   "Min": 15
+ },
+ {
+   "Piece Price": 436,
+   "Min": 15
+ },
+ {
+   "Piece Price": 437,
+   "Min": 15
+ },
+ {
+   "Piece Price": 438,
+   "Min": 15
+ },
+ {
+   "Piece Price": 439,
+   "Min": 15
+ },
+ {
+   "Piece Price": 440,
+   "Min": 15
+ },
+ {
+   "Piece Price": 441,
+   "Min": 15
+ },
+ {
+   "Piece Price": 442,
+   "Min": 15
+ },
+ {
+   "Piece Price": 443,
+   "Min": 15
+ },
+ {
+   "Piece Price": 444,
+   "Min": 15
+ },
+ {
+   "Piece Price": 445,
+   "Min": 15
+ },
+ {
+   "Piece Price": 446,
+   "Min": 15
+ },
+ {
+   "Piece Price": 447,
+   "Min": 15
+ },
+ {
+   "Piece Price": 448,
+   "Min": 15
+ },
+ {
+   "Piece Price": 449,
+   "Min": 15
+ },
+ {
+   "Piece Price": 450,
+   "Min": 15
+ },
+ {
+   "Piece Price": 451,
+   "Min": 15
+ },
+ {
+   "Piece Price": 452,
+   "Min": 15
+ },
+ {
+   "Piece Price": 453,
+   "Min": 15
+ },
+ {
+   "Piece Price": 454,
+   "Min": 15
+ },
+ {
+   "Piece Price": 455,
+   "Min": 15
+ },
+ {
+   "Piece Price": 456,
+   "Min": 15
+ },
+ {
+   "Piece Price": 457,
+   "Min": 15
+ },
+ {
+   "Piece Price": 458,
+   "Min": 15
+ },
+ {
+   "Piece Price": 459,
+   "Min": 15
+ },
+ {
+   "Piece Price": 460,
+   "Min": 15
+ },
+ {
+   "Piece Price": 461,
+   "Min": 15
+ },
+ {
+   "Piece Price": 462,
+   "Min": 15
+ },
+ {
+   "Piece Price": 463,
+   "Min": 15
+ },
+ {
+   "Piece Price": 464,
+   "Min": 15
+ },
+ {
+   "Piece Price": 465,
+   "Min": 15
+ },
+ {
+   "Piece Price": 466,
+   "Min": 15
+ },
+ {
+   "Piece Price": 467,
+   "Min": 15
+ },
+ {
+   "Piece Price": 468,
+   "Min": 15
+ },
+ {
+   "Piece Price": 469,
+   "Min": 15
+ },
+ {
+   "Piece Price": 470,
+   "Min": 15
+ },
+ {
+   "Piece Price": 471,
+   "Min": 15
+ },
+ {
+   "Piece Price": 472,
+   "Min": 15
+ },
+ {
+   "Piece Price": 473,
+   "Min": 15
+ },
+ {
+   "Piece Price": 474,
+   "Min": 15
+ },
+ {
+   "Piece Price": 475,
+   "Min": 15
+ },
+ {
+   "Piece Price": 476,
+   "Min": 15
+ },
+ {
+   "Piece Price": 477,
+   "Min": 15
+ },
+ {
+   "Piece Price": 478,
+   "Min": 15
+ },
+ {
+   "Piece Price": 479,
+   "Min": 15
+ },
+ {
+   "Piece Price": 480,
+   "Min": 15
+ },
+ {
+   "Piece Price": 481,
+   "Min": 15
+ },
+ {
+   "Piece Price": 482,
+   "Min": 15
+ },
+ {
+   "Piece Price": 483,
+   "Min": 15
+ },
+ {
+   "Piece Price": 484,
+   "Min": 15
+ },
+ {
+   "Piece Price": 485,
+   "Min": 15
+ },
+ {
+   "Piece Price": 486,
+   "Min": 15
+ },
+ {
+   "Piece Price": 487,
+   "Min": 15
+ },
+ {
+   "Piece Price": 488,
+   "Min": 15
+ },
+ {
+   "Piece Price": 489,
+   "Min": 15
+ },
+ {
+   "Piece Price": 490,
+   "Min": 15
+ },
+ {
+   "Piece Price": 491,
+   "Min": 15
+ },
+ {
+   "Piece Price": 492,
+   "Min": 15
+ },
+ {
+   "Piece Price": 493,
+   "Min": 15
+ },
+ {
+   "Piece Price": 494,
+   "Min": 15
+ },
+ {
+   "Piece Price": 495,
+   "Min": 15
+ },
+ {
+   "Piece Price": 496,
+   "Min": 15
+ },
+ {
+   "Piece Price": 497,
+   "Min": 15
+ },
+ {
+   "Piece Price": 498,
+   "Min": 15
+ },
+ {
+   "Piece Price": 499,
+   "Min": 15
+ },
+ {
+   "Piece Price": 500,
+   "Min": 15
+ },
+ {
+   "Piece Price": 501,
+   "Min": 15
+ },
+ {
+   "Piece Price": 502,
+   "Min": 15
+ },
+ {
+   "Piece Price": 503,
+   "Min": 15
+ },
+ {
+   "Piece Price": 504,
+   "Min": 15
+ },
+ {
+   "Piece Price": 505,
+   "Min": 15
+ },
+ {
+   "Piece Price": 506,
+   "Min": 15
+ },
+ {
+   "Piece Price": 507,
+   "Min": 15
+ },
+ {
+   "Piece Price": 508,
+   "Min": 15
+ },
+ {
+   "Piece Price": 509,
+   "Min": 15
+ },
+ {
+   "Piece Price": 510,
+   "Min": 15
+ },
+ {
+   "Piece Price": 511,
+   "Min": 15
+ },
+ {
+   "Piece Price": 512,
+   "Min": 15
+ },
+ {
+   "Piece Price": 513,
+   "Min": 15
+ },
+ {
+   "Piece Price": 514,
+   "Min": 15
+ },
+ {
+   "Piece Price": 515,
+   "Min": 15
+ },
+ {
+   "Piece Price": 516,
+   "Min": 15
+ },
+ {
+   "Piece Price": 517,
+   "Min": 15
+ },
+ {
+   "Piece Price": 518,
+   "Min": 15
+ },
+ {
+   "Piece Price": 519,
+   "Min": 15
+ },
+ {
+   "Piece Price": 520,
+   "Min": 15
+ },
+ {
+   "Piece Price": 521,
+   "Min": 15
+ },
+ {
+   "Piece Price": 522,
+   "Min": 15
+ },
+ {
+   "Piece Price": 523,
+   "Min": 15
+ },
+ {
+   "Piece Price": 524,
+   "Min": 15
+ },
+ {
+   "Piece Price": 525,
+   "Min": 15
+ },
+ {
+   "Piece Price": 526,
+   "Min": 15
+ },
+ {
+   "Piece Price": 527,
+   "Min": 15
+ },
+ {
+   "Piece Price": 528,
+   "Min": 15
+ },
+ {
+   "Piece Price": 529,
+   "Min": 15
+ },
+ {
+   "Piece Price": 530,
+   "Min": 15
+ },
+ {
+   "Piece Price": 531,
+   "Min": 15
+ },
+ {
+   "Piece Price": 532,
+   "Min": 15
+ },
+ {
+   "Piece Price": 533,
+   "Min": 15
+ },
+ {
+   "Piece Price": 534,
+   "Min": 15
+ },
+ {
+   "Piece Price": 535,
+   "Min": 15
+ },
+ {
+   "Piece Price": 536,
+   "Min": 15
+ },
+ {
+   "Piece Price": 537,
+   "Min": 15
+ },
+ {
+   "Piece Price": 538,
+   "Min": 15
+ },
+ {
+   "Piece Price": 539,
+   "Min": 15
+ },
+ {
+   "Piece Price": 540,
+   "Min": 15
+ },
+ {
+   "Piece Price": 541,
+   "Min": 15
+ },
+ {
+   "Piece Price": 542,
+   "Min": 15
+ },
+ {
+   "Piece Price": 543,
+   "Min": 15
+ },
+ {
+   "Piece Price": 544,
+   "Min": 15
+ },
+ {
+   "Piece Price": 545,
+   "Min": 15
+ },
+ {
+   "Piece Price": 546,
+   "Min": 15
+ },
+ {
+   "Piece Price": 547,
+   "Min": 15
+ },
+ {
+   "Piece Price": 548,
+   "Min": 15
+ },
+ {
+   "Piece Price": 549,
+   "Min": 15
+ },
+ {
+   "Piece Price": 550,
+   "Min": 15
+ },
+ {
+   "Piece Price": 551,
+   "Min": 15
+ },
+ {
+   "Piece Price": 552,
+   "Min": 15
+ },
+ {
+   "Piece Price": 553,
+   "Min": 15
+ },
+ {
+   "Piece Price": 554,
+   "Min": 15
+ },
+ {
+   "Piece Price": 555,
+   "Min": 15
+ },
+ {
+   "Piece Price": 556,
+   "Min": 15
+ },
+ {
+   "Piece Price": 557,
+   "Min": 15
+ },
+ {
+   "Piece Price": 558,
+   "Min": 15
+ },
+ {
+   "Piece Price": 559,
+   "Min": 15
+ },
+ {
+   "Piece Price": 560,
+   "Min": 15
+ },
+ {
+   "Piece Price": 561,
+   "Min": 15
+ },
+ {
+   "Piece Price": 562,
+   "Min": 15
+ },
+ {
+   "Piece Price": 563,
+   "Min": 15
+ },
+ {
+   "Piece Price": 564,
+   "Min": 15
+ },
+ {
+   "Piece Price": 565,
+   "Min": 15
+ },
+ {
+   "Piece Price": 566,
+   "Min": 15
+ },
+ {
+   "Piece Price": 567,
+   "Min": 15
+ },
+ {
+   "Piece Price": 568,
+   "Min": 15
+ },
+ {
+   "Piece Price": 569,
+   "Min": 15
+ },
+ {
+   "Piece Price": 570,
+   "Min": 15
+ },
+ {
+   "Piece Price": 571,
+   "Min": 15
+ },
+ {
+   "Piece Price": 572,
+   "Min": 15
+ },
+ {
+   "Piece Price": 573,
+   "Min": 15
+ },
+ {
+   "Piece Price": 574,
+   "Min": 15
+ },
+ {
+   "Piece Price": 575,
+   "Min": 15
+ },
+ {
+   "Piece Price": 576,
+   "Min": 15
+ },
+ {
+   "Piece Price": 577,
+   "Min": 15
+ },
+ {
+   "Piece Price": 578,
+   "Min": 15
+ },
+ {
+   "Piece Price": 579,
+   "Min": 15
+ },
+ {
+   "Piece Price": 580,
+   "Min": 15
+ },
+ {
+   "Piece Price": 581,
+   "Min": 15
+ },
+ {
+   "Piece Price": 582,
+   "Min": 15
+ },
+ {
+   "Piece Price": 583,
+   "Min": 15
+ },
+ {
+   "Piece Price": 584,
+   "Min": 15
+ },
+ {
+   "Piece Price": 585,
+   "Min": 15
+ },
+ {
+   "Piece Price": 586,
+   "Min": 15
+ },
+ {
+   "Piece Price": 587,
+   "Min": 15
+ },
+ {
+   "Piece Price": 588,
+   "Min": 15
+ },
+ {
+   "Piece Price": 589,
+   "Min": 15
+ },
+ {
+   "Piece Price": 590,
+   "Min": 15
+ },
+ {
+   "Piece Price": 591,
+   "Min": 15
+ },
+ {
+   "Piece Price": 592,
+   "Min": 15
+ },
+ {
+   "Piece Price": 593,
+   "Min": 15
+ },
+ {
+   "Piece Price": 594,
+   "Min": 15
+ },
+ {
+   "Piece Price": 595,
+   "Min": 15
+ },
+ {
+   "Piece Price": 596,
+   "Min": 15
+ },
+ {
+   "Piece Price": 597,
+   "Min": 15
+ },
+ {
+   "Piece Price": 598,
+   "Min": 15
+ },
+ {
+   "Piece Price": 599,
+   "Min": 15
+ },
+ {
+   "Piece Price": 600,
+   "Min": 15
+ },
+ {
+   "Piece Price": 601,
+   "Min": 15
+ },
+ {
+   "Piece Price": 602,
+   "Min": 15
+ },
+ {
+   "Piece Price": 603,
+   "Min": 15
+ },
+ {
+   "Piece Price": 604,
+   "Min": 15
+ },
+ {
+   "Piece Price": 605,
+   "Min": 15
+ },
+ {
+   "Piece Price": 606,
+   "Min": 15
+ },
+ {
+   "Piece Price": 607,
+   "Min": 15
+ },
+ {
+   "Piece Price": 608,
+   "Min": 15
+ },
+ {
+   "Piece Price": 609,
+   "Min": 15
+ },
+ {
+   "Piece Price": 610,
+   "Min": 15
+ },
+ {
+   "Piece Price": 611,
+   "Min": 15
+ },
+ {
+   "Piece Price": 612,
+   "Min": 15
+ },
+ {
+   "Piece Price": 613,
+   "Min": 15
+ },
+ {
+   "Piece Price": 614,
+   "Min": 15
+ },
+ {
+   "Piece Price": 615,
+   "Min": 15
+ },
+ {
+   "Piece Price": 616,
+   "Min": 15
+ },
+ {
+   "Piece Price": 617,
+   "Min": 15
+ },
+ {
+   "Piece Price": 618,
+   "Min": 15
+ },
+ {
+   "Piece Price": 619,
+   "Min": 15
+ },
+ {
+   "Piece Price": 620,
+   "Min": 15
+ },
+ {
+   "Piece Price": 621,
+   "Min": 15
+ },
+ {
+   "Piece Price": 622,
+   "Min": 15
+ },
+ {
+   "Piece Price": 623,
+   "Min": 15
+ },
+ {
+   "Piece Price": 624,
+   "Min": 15
+ },
+ {
+   "Piece Price": 625,
+   "Min": 15
+ },
+ {
+   "Piece Price": 626,
+   "Min": 15
+ },
+ {
+   "Piece Price": 627,
+   "Min": 15
+ },
+ {
+   "Piece Price": 628,
+   "Min": 15
+ },
+ {
+   "Piece Price": 629,
+   "Min": 15
+ },
+ {
+   "Piece Price": 630,
+   "Min": 15
+ },
+ {
+   "Piece Price": 631,
+   "Min": 15
+ },
+ {
+   "Piece Price": 632,
+   "Min": 15
+ },
+ {
+   "Piece Price": 633,
+   "Min": 15
+ },
+ {
+   "Piece Price": 634,
+   "Min": 15
+ },
+ {
+   "Piece Price": 635,
+   "Min": 15
+ },
+ {
+   "Piece Price": 636,
+   "Min": 15
+ },
+ {
+   "Piece Price": 637,
+   "Min": 15
+ },
+ {
+   "Piece Price": 638,
+   "Min": 15
+ },
+ {
+   "Piece Price": 639,
+   "Min": 15
+ },
+ {
+   "Piece Price": 640,
+   "Min": 15
+ },
+ {
+   "Piece Price": 641,
+   "Min": 15
+ },
+ {
+   "Piece Price": 642,
+   "Min": 15
+ },
+ {
+   "Piece Price": 643,
+   "Min": 15
+ },
+ {
+   "Piece Price": 644,
+   "Min": 15
+ },
+ {
+   "Piece Price": 645,
+   "Min": 15
+ },
+ {
+   "Piece Price": 646,
+   "Min": 15
+ },
+ {
+   "Piece Price": 647,
+   "Min": 15
+ },
+ {
+   "Piece Price": 648,
+   "Min": 15
+ },
+ {
+   "Piece Price": 649,
+   "Min": 15
+ },
+ {
+   "Piece Price": 650,
+   "Min": 15
+ },
+ {
+   "Piece Price": 651,
+   "Min": 15
+ },
+ {
+   "Piece Price": 652,
+   "Min": 15
+ },
+ {
+   "Piece Price": 653,
+   "Min": 15
+ },
+ {
+   "Piece Price": 654,
+   "Min": 15
+ },
+ {
+   "Piece Price": 655,
+   "Min": 15
+ },
+ {
+   "Piece Price": 656,
+   "Min": 15
+ },
+ {
+   "Piece Price": 657,
+   "Min": 15
+ },
+ {
+   "Piece Price": 658,
+   "Min": 15
+ },
+ {
+   "Piece Price": 659,
+   "Min": 15
+ },
+ {
+   "Piece Price": 660,
+   "Min": 15
+ },
+ {
+   "Piece Price": 661,
+   "Min": 15
+ },
+ {
+   "Piece Price": 662,
+   "Min": 15
+ },
+ {
+   "Piece Price": 663,
+   "Min": 15
+ },
+ {
+   "Piece Price": 664,
+   "Min": 15
+ },
+ {
+   "Piece Price": 665,
+   "Min": 15
+ },
+ {
+   "Piece Price": 666,
+   "Min": 15
+ },
+ {
+   "Piece Price": 667,
+   "Min": 15
+ },
+ {
+   "Piece Price": 668,
+   "Min": 15
+ },
+ {
+   "Piece Price": 669,
+   "Min": 15
+ },
+ {
+   "Piece Price": 670,
+   "Min": 15
+ },
+ {
+   "Piece Price": 671,
+   "Min": 15
+ },
+ {
+   "Piece Price": 672,
+   "Min": 15
+ },
+ {
+   "Piece Price": 673,
+   "Min": 15
+ },
+ {
+   "Piece Price": 674,
+   "Min": 15
+ },
+ {
+   "Piece Price": 675,
+   "Min": 15
+ },
+ {
+   "Piece Price": 676,
+   "Min": 15
+ },
+ {
+   "Piece Price": 677,
+   "Min": 15
+ },
+ {
+   "Piece Price": 678,
+   "Min": 15
+ },
+ {
+   "Piece Price": 679,
+   "Min": 15
+ },
+ {
+   "Piece Price": 680,
+   "Min": 15
+ },
+ {
+   "Piece Price": 681,
+   "Min": 15
+ },
+ {
+   "Piece Price": 682,
+   "Min": 15
+ },
+ {
+   "Piece Price": 683,
+   "Min": 15
+ },
+ {
+   "Piece Price": 684,
+   "Min": 15
+ },
+ {
+   "Piece Price": 685,
+   "Min": 15
+ },
+ {
+   "Piece Price": 686,
+   "Min": 15
+ },
+ {
+   "Piece Price": 687,
+   "Min": 15
+ },
+ {
+   "Piece Price": 688,
+   "Min": 15
+ },
+ {
+   "Piece Price": 689,
+   "Min": 15
+ },
+ {
+   "Piece Price": 690,
+   "Min": 15
+ },
+ {
+   "Piece Price": 691,
+   "Min": 15
+ },
+ {
+   "Piece Price": 692,
+   "Min": 15
+ },
+ {
+   "Piece Price": 693,
+   "Min": 15
+ },
+ {
+   "Piece Price": 694,
+   "Min": 15
+ },
+ {
+   "Piece Price": 695,
+   "Min": 15
+ },
+ {
+   "Piece Price": 696,
+   "Min": 15
+ },
+ {
+   "Piece Price": 697,
+   "Min": 15
+ },
+ {
+   "Piece Price": 698,
+   "Min": 15
+ },
+ {
+   "Piece Price": 699,
+   "Min": 15
+ },
+ {
+   "Piece Price": 700,
+   "Min": 15
+ },
+ {
+   "Piece Price": 701,
+   "Min": 15
+ },
+ {
+   "Piece Price": 702,
+   "Min": 15
+ },
+ {
+   "Piece Price": 703,
+   "Min": 15
+ },
+ {
+   "Piece Price": 704,
+   "Min": 15
+ },
+ {
+   "Piece Price": 705,
+   "Min": 15
+ },
+ {
+   "Piece Price": 706,
+   "Min": 15
+ },
+ {
+   "Piece Price": 707,
+   "Min": 15
+ },
+ {
+   "Piece Price": 708,
+   "Min": 15
+ },
+ {
+   "Piece Price": 709,
+   "Min": 15
+ },
+ {
+   "Piece Price": 710,
+   "Min": 15
+ },
+ {
+   "Piece Price": 711,
+   "Min": 15
+ },
+ {
+   "Piece Price": 712,
+   "Min": 15
+ },
+ {
+   "Piece Price": 713,
+   "Min": 15
+ },
+ {
+   "Piece Price": 714,
+   "Min": 15
+ },
+ {
+   "Piece Price": 715,
+   "Min": 15
+ },
+ {
+   "Piece Price": 716,
+   "Min": 15
+ },
+ {
+   "Piece Price": 717,
+   "Min": 15
+ },
+ {
+   "Piece Price": 718,
+   "Min": 15
+ },
+ {
+   "Piece Price": 719,
+   "Min": 15
+ },
+ {
+   "Piece Price": 720,
+   "Min": 15
+ },
+ {
+   "Piece Price": 721,
+   "Min": 15
+ },
+ {
+   "Piece Price": 722,
+   "Min": 15
+ },
+ {
+   "Piece Price": 723,
+   "Min": 15
+ },
+ {
+   "Piece Price": 724,
+   "Min": 15
+ },
+ {
+   "Piece Price": 725,
+   "Min": 15
+ },
+ {
+   "Piece Price": 726,
+   "Min": 15
+ },
+ {
+   "Piece Price": 727,
+   "Min": 15
+ },
+ {
+   "Piece Price": 728,
+   "Min": 15
+ },
+ {
+   "Piece Price": 729,
+   "Min": 15
+ },
+ {
+   "Piece Price": 730,
+   "Min": 15
+ },
+ {
+   "Piece Price": 731,
+   "Min": 15
+ },
+ {
+   "Piece Price": 732,
+   "Min": 15
+ },
+ {
+   "Piece Price": 733,
+   "Min": 15
+ },
+ {
+   "Piece Price": 734,
+   "Min": 15
+ },
+ {
+   "Piece Price": 735,
+   "Min": 15
+ },
+ {
+   "Piece Price": 736,
+   "Min": 15
+ },
+ {
+   "Piece Price": 737,
+   "Min": 15
+ },
+ {
+   "Piece Price": 738,
+   "Min": 15
+ },
+ {
+   "Piece Price": 739,
+   "Min": 15
+ },
+ {
+   "Piece Price": 740,
+   "Min": 15
+ },
+ {
+   "Piece Price": 741,
+   "Min": 15
+ },
+ {
+   "Piece Price": 742,
+   "Min": 15
+ },
+ {
+   "Piece Price": 743,
+   "Min": 15
+ },
+ {
+   "Piece Price": 744,
+   "Min": 15
+ },
+ {
+   "Piece Price": 745,
+   "Min": 15
+ },
+ {
+   "Piece Price": 746,
+   "Min": 15
+ },
+ {
+   "Piece Price": 747,
+   "Min": 15
+ },
+ {
+   "Piece Price": 748,
+   "Min": 15
+ },
+ {
+   "Piece Price": 749,
+   "Min": 15
+ },
+ {
+   "Piece Price": 750,
+   "Min": 15
+ },
+ {
+   "Piece Price": 751,
+   "Min": 15
+ },
+ {
+   "Piece Price": 752,
+   "Min": 15
+ },
+ {
+   "Piece Price": 753,
+   "Min": 15
+ },
+ {
+   "Piece Price": 754,
+   "Min": 15
+ },
+ {
+   "Piece Price": 755,
+   "Min": 15
+ },
+ {
+   "Piece Price": 756,
+   "Min": 15
+ },
+ {
+   "Piece Price": 757,
+   "Min": 15
+ },
+ {
+   "Piece Price": 758,
+   "Min": 15
+ },
+ {
+   "Piece Price": 759,
+   "Min": 15
+ },
+ {
+   "Piece Price": 760,
+   "Min": 15
+ },
+ {
+   "Piece Price": 761,
+   "Min": 15
+ },
+ {
+   "Piece Price": 762,
+   "Min": 15
+ },
+ {
+   "Piece Price": 763,
+   "Min": 15
+ },
+ {
+   "Piece Price": 764,
+   "Min": 15
+ },
+ {
+   "Piece Price": 765,
+   "Min": 15
+ },
+ {
+   "Piece Price": 766,
+   "Min": 15
+ },
+ {
+   "Piece Price": 767,
+   "Min": 15
+ },
+ {
+   "Piece Price": 768,
+   "Min": 15
+ },
+ {
+   "Piece Price": 769,
+   "Min": 15
+ },
+ {
+   "Piece Price": 770,
+   "Min": 15
+ },
+ {
+   "Piece Price": 771,
+   "Min": 15
+ },
+ {
+   "Piece Price": 772,
+   "Min": 15
+ },
+ {
+   "Piece Price": 773,
+   "Min": 15
+ },
+ {
+   "Piece Price": 774,
+   "Min": 15
+ },
+ {
+   "Piece Price": 775,
+   "Min": 15
+ },
+ {
+   "Piece Price": 776,
+   "Min": 15
+ },
+ {
+   "Piece Price": 777,
+   "Min": 15
+ },
+ {
+   "Piece Price": 778,
+   "Min": 15
+ },
+ {
+   "Piece Price": 779,
+   "Min": 15
+ },
+ {
+   "Piece Price": 780,
+   "Min": 15
+ },
+ {
+   "Piece Price": 781,
+   "Min": 15
+ },
+ {
+   "Piece Price": 782,
+   "Min": 15
+ },
+ {
+   "Piece Price": 783,
+   "Min": 15
+ },
+ {
+   "Piece Price": 784,
+   "Min": 15
+ },
+ {
+   "Piece Price": 785,
+   "Min": 15
+ },
+ {
+   "Piece Price": 786,
+   "Min": 15
+ },
+ {
+   "Piece Price": 787,
+   "Min": 15
+ },
+ {
+   "Piece Price": 788,
+   "Min": 15
+ },
+ {
+   "Piece Price": 789,
+   "Min": 15
+ },
+ {
+   "Piece Price": 790,
+   "Min": 15
+ },
+ {
+   "Piece Price": 791,
+   "Min": 15
+ },
+ {
+   "Piece Price": 792,
+   "Min": 15
+ },
+ {
+   "Piece Price": 793,
+   "Min": 15
+ },
+ {
+   "Piece Price": 794,
+   "Min": 15
+ },
+ {
+   "Piece Price": 795,
+   "Min": 15
+ },
+ {
+   "Piece Price": 796,
+   "Min": 15
+ },
+ {
+   "Piece Price": 797,
+   "Min": 15
+ },
+ {
+   "Piece Price": 798,
+   "Min": 15
+ },
+ {
+   "Piece Price": 799,
+   "Min": 15
+ },
+ {
+   "Piece Price": 800,
+   "Min": 15
+ },
+ {
+   "Piece Price": 801,
+   "Min": 15
+ },
+ {
+   "Piece Price": 802,
+   "Min": 15
+ },
+ {
+   "Piece Price": 803,
+   "Min": 15
+ },
+ {
+   "Piece Price": 804,
+   "Min": 15
+ },
+ {
+   "Piece Price": 805,
+   "Min": 15
+ },
+ {
+   "Piece Price": 806,
+   "Min": 15
+ },
+ {
+   "Piece Price": 807,
+   "Min": 15
+ },
+ {
+   "Piece Price": 808,
+   "Min": 15
+ },
+ {
+   "Piece Price": 809,
+   "Min": 15
+ },
+ {
+   "Piece Price": 810,
+   "Min": 15
+ },
+ {
+   "Piece Price": 811,
+   "Min": 15
+ },
+ {
+   "Piece Price": 812,
+   "Min": 15
+ },
+ {
+   "Piece Price": 813,
+   "Min": 15
+ },
+ {
+   "Piece Price": 814,
+   "Min": 15
+ },
+ {
+   "Piece Price": 815,
+   "Min": 15
+ },
+ {
+   "Piece Price": 816,
+   "Min": 15
+ },
+ {
+   "Piece Price": 817,
+   "Min": 15
+ },
+ {
+   "Piece Price": 818,
+   "Min": 15
+ },
+ {
+   "Piece Price": 819,
+   "Min": 15
+ },
+ {
+   "Piece Price": 820,
+   "Min": 15
+ },
+ {
+   "Piece Price": 821,
+   "Min": 15
+ },
+ {
+   "Piece Price": 822,
+   "Min": 15
+ },
+ {
+   "Piece Price": 823,
+   "Min": 15
+ },
+ {
+   "Piece Price": 824,
+   "Min": 15
+ },
+ {
+   "Piece Price": 825,
+   "Min": 15
+ },
+ {
+   "Piece Price": 826,
+   "Min": 15
+ },
+ {
+   "Piece Price": 827,
+   "Min": 15
+ },
+ {
+   "Piece Price": 828,
+   "Min": 15
+ },
+ {
+   "Piece Price": 829,
+   "Min": 15
+ },
+ {
+   "Piece Price": 830,
+   "Min": 15
+ },
+ {
+   "Piece Price": 831,
+   "Min": 15
+ },
+ {
+   "Piece Price": 832,
+   "Min": 15
+ },
+ {
+   "Piece Price": 833,
+   "Min": 15
+ },
+ {
+   "Piece Price": 834,
+   "Min": 15
+ },
+ {
+   "Piece Price": 835,
+   "Min": 15
+ },
+ {
+   "Piece Price": 836,
+   "Min": 15
+ },
+ {
+   "Piece Price": 837,
+   "Min": 15
+ },
+ {
+   "Piece Price": 838,
+   "Min": 15
+ },
+ {
+   "Piece Price": 839,
+   "Min": 15
+ },
+ {
+   "Piece Price": 840,
+   "Min": 15
+ },
+ {
+   "Piece Price": 841,
+   "Min": 15
+ },
+ {
+   "Piece Price": 842,
+   "Min": 15
+ },
+ {
+   "Piece Price": 843,
+   "Min": 15
+ },
+ {
+   "Piece Price": 844,
+   "Min": 15
+ },
+ {
+   "Piece Price": 845,
+   "Min": 15
+ },
+ {
+   "Piece Price": 846,
+   "Min": 15
+ },
+ {
+   "Piece Price": 847,
+   "Min": 15
+ },
+ {
+   "Piece Price": 848,
+   "Min": 15
+ },
+ {
+   "Piece Price": 849,
+   "Min": 15
+ },
+ {
+   "Piece Price": 850,
+   "Min": 15
+ },
+ {
+   "Piece Price": 851,
+   "Min": 15
+ },
+ {
+   "Piece Price": 852,
+   "Min": 15
+ },
+ {
+   "Piece Price": 853,
+   "Min": 15
+ },
+ {
+   "Piece Price": 854,
+   "Min": 15
+ },
+ {
+   "Piece Price": 855,
+   "Min": 15
+ },
+ {
+   "Piece Price": 856,
+   "Min": 15
+ },
+ {
+   "Piece Price": 857,
+   "Min": 15
+ },
+ {
+   "Piece Price": 858,
+   "Min": 15
+ },
+ {
+   "Piece Price": 859,
+   "Min": 15
+ },
+ {
+   "Piece Price": 860,
+   "Min": 15
+ },
+ {
+   "Piece Price": 861,
+   "Min": 15
+ },
+ {
+   "Piece Price": 862,
+   "Min": 15
+ },
+ {
+   "Piece Price": 863,
+   "Min": 15
+ },
+ {
+   "Piece Price": 864,
+   "Min": 15
+ },
+ {
+   "Piece Price": 865,
+   "Min": 15
+ },
+ {
+   "Piece Price": 866,
+   "Min": 15
+ },
+ {
+   "Piece Price": 867,
+   "Min": 15
+ },
+ {
+   "Piece Price": 868,
+   "Min": 15
+ },
+ {
+   "Piece Price": 869,
+   "Min": 15
+ },
+ {
+   "Piece Price": 870,
+   "Min": 15
+ },
+ {
+   "Piece Price": 871,
+   "Min": 15
+ },
+ {
+   "Piece Price": 872,
+   "Min": 15
+ },
+ {
+   "Piece Price": 873,
+   "Min": 15
+ },
+ {
+   "Piece Price": 874,
+   "Min": 15
+ },
+ {
+   "Piece Price": 875,
+   "Min": 15
+ },
+ {
+   "Piece Price": 876,
+   "Min": 15
+ },
+ {
+   "Piece Price": 877,
+   "Min": 15
+ },
+ {
+   "Piece Price": 878,
+   "Min": 15
+ },
+ {
+   "Piece Price": 879,
+   "Min": 15
+ },
+ {
+   "Piece Price": 880,
+   "Min": 15
+ },
+ {
+   "Piece Price": 881,
+   "Min": 15
+ },
+ {
+   "Piece Price": 882,
+   "Min": 15
+ },
+ {
+   "Piece Price": 883,
+   "Min": 15
+ },
+ {
+   "Piece Price": 884,
+   "Min": 15
+ },
+ {
+   "Piece Price": 885,
+   "Min": 15
+ },
+ {
+   "Piece Price": 886,
+   "Min": 15
+ },
+ {
+   "Piece Price": 887,
+   "Min": 15
+ },
+ {
+   "Piece Price": 888,
+   "Min": 15
+ },
+ {
+   "Piece Price": 889,
+   "Min": 15
+ },
+ {
+   "Piece Price": 890,
+   "Min": 15
+ },
+ {
+   "Piece Price": 891,
+   "Min": 15
+ },
+ {
+   "Piece Price": 892,
+   "Min": 15
+ },
+ {
+   "Piece Price": 893,
+   "Min": 15
+ },
+ {
+   "Piece Price": 894,
+   "Min": 15
+ },
+ {
+   "Piece Price": 895,
+   "Min": 15
+ },
+ {
+   "Piece Price": 896,
+   "Min": 15
+ },
+ {
+   "Piece Price": 897,
+   "Min": 15
+ },
+ {
+   "Piece Price": 898,
+   "Min": 15
+ },
+ {
+   "Piece Price": 899,
+   "Min": 15
+ },
+ {
+   "Piece Price": 900,
+   "Min": 15
+ },
+ {
+   "Piece Price": 901,
+   "Min": 15
+ },
+ {
+   "Piece Price": 902,
+   "Min": 15
+ },
+ {
+   "Piece Price": 903,
+   "Min": 15
+ },
+ {
+   "Piece Price": 904,
+   "Min": 15
+ },
+ {
+   "Piece Price": 905,
+   "Min": 15
+ },
+ {
+   "Piece Price": 906,
+   "Min": 15
+ },
+ {
+   "Piece Price": 907,
+   "Min": 15
+ },
+ {
+   "Piece Price": 908,
+   "Min": 15
+ },
+ {
+   "Piece Price": 909,
+   "Min": 15
+ },
+ {
+   "Piece Price": 910,
+   "Min": 15
+ },
+ {
+   "Piece Price": 911,
+   "Min": 15
+ },
+ {
+   "Piece Price": 912,
+   "Min": 15
+ },
+ {
+   "Piece Price": 913,
+   "Min": 15
+ },
+ {
+   "Piece Price": 914,
+   "Min": 15
+ },
+ {
+   "Piece Price": 915,
+   "Min": 15
+ },
+ {
+   "Piece Price": 916,
+   "Min": 15
+ },
+ {
+   "Piece Price": 917,
+   "Min": 15
+ },
+ {
+   "Piece Price": 918,
+   "Min": 15
+ },
+ {
+   "Piece Price": 919,
+   "Min": 15
+ },
+ {
+   "Piece Price": 920,
+   "Min": 15
+ },
+ {
+   "Piece Price": 921,
+   "Min": 15
+ },
+ {
+   "Piece Price": 922,
+   "Min": 15
+ },
+ {
+   "Piece Price": 923,
+   "Min": 15
+ },
+ {
+   "Piece Price": 924,
+   "Min": 15
+ },
+ {
+   "Piece Price": 925,
+   "Min": 15
+ },
+ {
+   "Piece Price": 926,
+   "Min": 15
+ },
+ {
+   "Piece Price": 927,
+   "Min": 15
+ },
+ {
+   "Piece Price": 928,
+   "Min": 15
+ },
+ {
+   "Piece Price": 929,
+   "Min": 15
+ },
+ {
+   "Piece Price": 930,
+   "Min": 15
+ },
+ {
+   "Piece Price": 931,
+   "Min": 15
+ },
+ {
+   "Piece Price": 932,
+   "Min": 15
+ },
+ {
+   "Piece Price": 933,
+   "Min": 15
+ },
+ {
+   "Piece Price": 934,
+   "Min": 15
+ },
+ {
+   "Piece Price": 935,
+   "Min": 15
+ },
+ {
+   "Piece Price": 936,
+   "Min": 15
+ },
+ {
+   "Piece Price": 937,
+   "Min": 15
+ },
+ {
+   "Piece Price": 938,
+   "Min": 15
+ },
+ {
+   "Piece Price": 939,
+   "Min": 15
+ },
+ {
+   "Piece Price": 940,
+   "Min": 15
+ },
+ {
+   "Piece Price": 941,
+   "Min": 15
+ },
+ {
+   "Piece Price": 942,
+   "Min": 15
+ },
+ {
+   "Piece Price": 943,
+   "Min": 15
+ },
+ {
+   "Piece Price": 944,
+   "Min": 15
+ },
+ {
+   "Piece Price": 945,
+   "Min": 15
+ },
+ {
+   "Piece Price": 946,
+   "Min": 15
+ },
+ {
+   "Piece Price": 947,
+   "Min": 15
+ },
+ {
+   "Piece Price": 948,
+   "Min": 15
+ },
+ {
+   "Piece Price": 949,
+   "Min": 15
+ },
+ {
+   "Piece Price": 950,
+   "Min": 15
+ },
+ {
+   "Piece Price": 951,
+   "Min": 15
+ },
+ {
+   "Piece Price": 952,
+   "Min": 15
+ },
+ {
+   "Piece Price": 953,
+   "Min": 15
+ },
+ {
+   "Piece Price": 954,
+   "Min": 15
+ },
+ {
+   "Piece Price": 955,
+   "Min": 15
+ },
+ {
+   "Piece Price": 956,
+   "Min": 15
+ },
+ {
+   "Piece Price": 957,
+   "Min": 15
+ },
+ {
+   "Piece Price": 958,
+   "Min": 15
+ },
+ {
+   "Piece Price": 959,
+   "Min": 15
+ },
+ {
+   "Piece Price": 960,
+   "Min": 15
+ },
+ {
+   "Piece Price": 961,
+   "Min": 15
+ },
+ {
+   "Piece Price": 962,
+   "Min": 15
+ },
+ {
+   "Piece Price": 963,
+   "Min": 15
+ },
+ {
+   "Piece Price": 964,
+   "Min": 15
+ },
+ {
+   "Piece Price": 965,
+   "Min": 15
+ },
+ {
+   "Piece Price": 966,
+   "Min": 15
+ },
+ {
+   "Piece Price": 967,
+   "Min": 15
+ },
+ {
+   "Piece Price": 968,
+   "Min": 15
+ },
+ {
+   "Piece Price": 969,
+   "Min": 15
+ },
+ {
+   "Piece Price": 970,
+   "Min": 15
+ },
+ {
+   "Piece Price": 971,
+   "Min": 15
+ },
+ {
+   "Piece Price": 972,
+   "Min": 15
+ },
+ {
+   "Piece Price": 973,
+   "Min": 15
+ },
+ {
+   "Piece Price": 974,
+   "Min": 15
+ },
+ {
+   "Piece Price": 975,
+   "Min": 15
+ },
+ {
+   "Piece Price": 976,
+   "Min": 15
+ },
+ {
+   "Piece Price": 977,
+   "Min": 15
+ },
+ {
+   "Piece Price": 978,
+   "Min": 15
+ },
+ {
+   "Piece Price": 979,
+   "Min": 15
+ },
+ {
+   "Piece Price": 980,
+   "Min": 15
+ },
+ {
+   "Piece Price": 981,
+   "Min": 15
+ },
+ {
+   "Piece Price": 982,
+   "Min": 15
+ },
+ {
+   "Piece Price": 983,
+   "Min": 15
+ },
+ {
+   "Piece Price": 984,
+   "Min": 15
+ },
+ {
+   "Piece Price": 985,
+   "Min": 15
+ },
+ {
+   "Piece Price": 986,
+   "Min": 15
+ },
+ {
+   "Piece Price": 987,
+   "Min": 15
+ },
+ {
+   "Piece Price": 988,
+   "Min": 15
+ },
+ {
+   "Piece Price": 989,
+   "Min": 15
+ },
+ {
+   "Piece Price": 990,
+   "Min": 15
+ },
+ {
+   "Piece Price": 991,
+   "Min": 15
+ },
+ {
+   "Piece Price": 992,
+   "Min": 15
+ },
+ {
+   "Piece Price": 993,
+   "Min": 15
+ },
+ {
+   "Piece Price": 994,
+   "Min": 15
+ },
+ {
+   "Piece Price": 995,
+   "Min": 15
+ },
+ {
+   "Piece Price": 996,
+   "Min": 15
+ },
+ {
+   "Piece Price": 997,
+   "Min": 15
+ },
+ {
+   "Piece Price": 998,
+   "Min": 15
+ },
+ {
+   "Piece Price": 999,
+   "Min": 15
+ },
+ {
+   "Piece Price": 1000,
+   "Min": 15
+ }
+]
